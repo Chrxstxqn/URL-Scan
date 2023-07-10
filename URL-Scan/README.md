@@ -22,6 +22,3 @@ This tool is under the GPL v.3 License.
 © 2023 Chrxstxqn
 
 
-
-© 2022 Tommaso Bona
-
