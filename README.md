@@ -25,4 +25,3 @@ This tool is under the GPL v.3 License.
 
 
 
-© 2022 Tommaso Bona
