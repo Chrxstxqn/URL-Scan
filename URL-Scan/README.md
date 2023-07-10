@@ -9,6 +9,7 @@ This tool is a simple but easy to use Malicious URL Scanner written in Python wi
 * pkg install git
 * pkg install toilet
 * pip install requests
+* git clone https://github.com/Chrxstxqn/URL-Scan
 
 # Usage
 * cd URL-Scan
