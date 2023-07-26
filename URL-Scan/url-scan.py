@@ -20,7 +20,7 @@ def print_fire_title():
         "  | | | | _ \ |    / __((/ __(_)_\(_) \| |   ",
         "  | |_| |   / |__  \__ \| (__ / _ \ | .` |   ",
         "   \___/|_|_\____| |___/ \___/_/ \_\|_|\_|   ",  
-        "                                             ",
+        "                ig: i.chrxstxqn              ",
         "            beta 2.0  by Chrxstxqn           ",                                           
         "   ~https://github.com/Chrxstxqn/URL-Scan~   ",
         "                                             ",
@@ -40,7 +40,7 @@ def print_fire_menu():
 def print_footer():
     print(" ")
     print_fire_text("Thanks for using! <3")
-    print_fire_text("Support me on Instagram: '_chrxstxqn_'")
+        print_fire_text("Support me on Instagram: 'i.chrxstxqn'")
 
 def main():
     while True:
