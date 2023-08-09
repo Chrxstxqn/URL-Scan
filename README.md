@@ -1,13 +1,15 @@
 # URL-Scan
 Scan Url, Check if a link is secure or contains malware
 
+# ig: i.chrxstxqn
+
 ![UrlScann-Screen](https://github.com/Chrxstxqn/URL-Scan/assets/137430908/1f00c05b-8698-4696-a9d0-b52f3ac84260)
 
 # Tool info
 This tool is a simple but easy to use Malicious URL Scanner written in Python with the ipqualityscore API.
 
 # Installation
-* apt update && apt upgrade
+* sudo apt update && sudo apt upgrade -y 
 * pkg install python
 * pkg install git
 * git clone https://github.com/Chrxstxqn/URL-Scan
