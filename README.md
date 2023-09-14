@@ -1,13 +1,3 @@
-# WORK IN PROGRESS
-# THE TOOL IS NOT CURRENTLY AVAIABLE
-# sorry for the inconvenience 
-# we will fix the bug as soon as possible
-# thanks you for your attention 
-# <3
-# ig: i.chrxstxqn
-
-##############################
-
 # URL-Scan
 Scan Url, Check if a link is secure or contains malware
 
