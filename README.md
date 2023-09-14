@@ -16,6 +16,8 @@ This tool is a simple but easy to use Malicious URL Scanner written in Python wi
 
 # Usage
 * cd URL-Scan
+* ls
+* cd URL-Scan
 * chmod +x url-scan.py
 * python url-scan.py
 
