@@ -40,7 +40,7 @@ def print_fire_menu():
 def print_footer():
     print(" ")
     print_fire_text("Thanks for using! <3")
-        print_fire_text("Support me on Instagram: 'i.chrxstxqn'")
+    print_fire_text("Support me on Instagram: 'i.chrxstxqn'")
 
 def main():
     while True:
